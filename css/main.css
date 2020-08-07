@@ -128,6 +128,15 @@ strong {
     font-size: 60px;
 }
 
+#play {
+    font-size: 60px;
+}
+
+#play:hover {
+    cursor: pointer;
+    font-size: 65px;
+}
+
 #pause {
     font-size: 50px;
     background-color: rgb(139, 137, 137);
